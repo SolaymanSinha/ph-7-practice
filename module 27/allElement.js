@@ -1,0 +1,1 @@
+const inputField1 = document.getElementById('input-field-1');

@@ -1,0 +1,1 @@
+inputField1.value = 123;
